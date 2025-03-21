@@ -1,9 +1,9 @@
 👨‍💻 About Me  
 Hi, I’m Md. Samiur Rahman Sami.<br/>
-You can reach me at [Email](sami.bsl10@gmail.com) or [LinkedIn](https://www.linkedin.com/in/samisamiur96/)<br/>
-👀 Interests
-▪️Cyber Security / IT
-▪️Networking
+You can reach me at [Email](sami.bsl10@gmail.com) or [LinkedIn](https://www.linkedin.com/in/samisamiur96/)  
+👀 Interests  
+▪️Cyber Security / IT  
+▪️Networking  
 🛠️ Skills & Learning Path  
 ▪️Python, Bash, PowerShell  
 ▪️Network Security & System Security   
