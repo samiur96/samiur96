@@ -1,6 +1,6 @@
 👨‍💻 About Me  
 Hi, I’m Md. Samiur Rahman Sami.<br/>
-You can reach me at [Email](sami.bsl10@gmail.com) or [LinkedIn](https://www.linkedin.com/in/samisamiur96/)
+You can reach me at [Email](sami.bsl10@gmail.com) or [LinkedIn](https://www.linkedin.com/in/samisamiur96/)<br/>
 👀 Interests
 ▪️Cyber Security / IT
 ▪️Networking
