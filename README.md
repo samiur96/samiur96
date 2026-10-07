@@ -1,12 +1,13 @@
 👨‍💻 About Me  
-Hi, I’m Md. Samiur Rahman Sami.<br/>
+Hi, I’m Md. Samiur Rahman Sami, a Network Engineer at SSD Tech. <br/>
 You can reach me at [Email](sami.bsl10@gmail.com) or [LinkedIn](https://www.linkedin.com/in/samisamiur96/)  
 👀 Interests  
-▪️Cyber Security / IT  
-▪️Networking  
+▪️ Networking / SDN
+▪️ Cybersecurity / IT  
 🛠️ Skills & Learning Path  
 ▪️Python, Bash, PowerShell  
 ▪️Network Security & System Security   
 🚀 Goals  
-▪️Pursue higher education abroad in **Cybersecurity / IT** or **Networking**.  
-▪️Gain industry experience and secure a well-paying position in the industry.
+▪️Gain industry experience and secure a prestigious position in the industry.
+▪️Pursue a superior opportunity or higher education abroad in **Networking** or **Cybersecurity / IT**. 
+
